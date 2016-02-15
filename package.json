@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/MariaVintimilla/burger/issues"
   },
-  "homepage": "https://github.com/MariaVintimilla/burger#readme"
+  "homepage": "https://github.com/MariaVintimilla/burger#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.5",
+    "mysql": "^2.10.2"
+  }
 }
