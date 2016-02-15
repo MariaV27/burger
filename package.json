@@ -1,0 +1,19 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "This is a single page app that allows the user to input the name of the burger of their choosing and eat and submit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaVintimilla/burger.git"
+  },
+  "author": "Maria Vintimilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaVintimilla/burger/issues"
+  },
+  "homepage": "https://github.com/MariaVintimilla/burger#readme"
+}
